@@ -1,0 +1,136 @@
+main{
+    color: white;
+    display: flex;
+    margin: 0px;
+    
+}
+.coiinfonki{
+    margin-top: 12px;
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+.part1{
+    background-color: black;
+    border: 2px solid black;
+    width: 25vw;
+    padding: 12px;
+}
+.box1part1{
+    background-color:rgb(36, 35, 35);
+    
+    border-radius: 8px;
+    margin: 2px;
+    
+    
+}
+.part1info1{
+    display: flex;
+    text-align: center;
+    gap: 22px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    
+}
+.part1info2{
+    display: flex;
+    text-align: center;
+    gap: 22px;
+    margin-top: 18px;
+    margin-bottom: 22px;
+    padding-bottom: 12px;
+}
+.searchpart1{
+    height: 3vh;
+    margin-left: 12px;
+    margin-top: 10px;
+    
+}
+.search{
+    font-size: 16px;
+    margin-left: 7px;
+}
+.homepart1{
+    height: 3vh;
+    margin-left: 12px;
+    margin-top: 8px;
+}
+.home{
+    font-size: 16px;
+}
+.spotylogo{
+    margin: 12px;
+    width: 12vh;
+    margin-bottom: 22px;
+}
+
+.part2{
+    border: 2px solid black;
+    width: 75vw;
+}
+.libraryimg{
+    height: 7vh;
+}
+.libraryitems{
+    display: flex;
+}
+.librarydetails{
+    font-size: 15px;
+    margin-top: 15px;
+}
+.box2part1{
+    display: flex;
+    justify-content: space-between;
+}
+.addsign{
+    font-size: 22px;
+    text-decoration: none;
+
+    
+}
+.add{
+    height: 3vh;
+    margin-top: 12px;
+    border-radius: 50px;
+}
+.boxofaddplaylist{
+    background-color:rgb(36, 35, 35);
+    padding: 12px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+.infoplaylist{
+    font-size: 18px;
+}
+.info2playlist{
+    font-size: 14px;
+}
+.createplaylist{
+    font-size: 15px;
+    border-radius: 40px;
+    height: 5vh;
+    padding: 5px;
+    background-color: white;
+}
+.scrollmenu {
+    background-color: #333;
+    padding: 12px;
+    overflow: scroll;
+    height: 26vh;
+  }
+
+.globalimgg{
+    height: 3.5vh;
+    margin-top: 3px;
+}
+.enflish{
+    margin-top: 7px;
+}
+.imgenglish{
+    margin-left: 25px;
+    display: flex;
+    border-radius: 15px;
+}
+.cookiesinfo{
+    padding: 16px;
+}
